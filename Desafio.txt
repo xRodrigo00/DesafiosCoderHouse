@@ -1,0 +1,21 @@
+DESAFIO:
+Ciclo de programa: Entrada, proceso y salida 
+-Hacer un simulador interactivo que intregre lo visto hasta aca; 
+ejm: Cotizador de seguros, simulador de creditos, un simulador personalizado
+
+EJMS: 
+-Calcular costo total de productos y/o servicios seleccionados por el usuario
+-Calcular pagos en cuotas sobre un monto determinado
+-Calcular valor final de un producto seleccionado en funcion de impuestos y descuentos 
+-Calcular el tiempo de espera promedio en relacion a la cantidad de turnos registrados
+-Calcular edad promedio de personas registradas
+-Calcular nota final de alumnos ingresados
+-Calculos de impuestos
+-Mensajes personalizados
+-Funcion para calcular el signo segun la fecha ingresada
+-Calcular edad segun fecha de nacimiento
+-Calcular cuanto es un sueldo
+-Conversor de monedas
+
+Consignas:
+Pedir datos, modificar y mostrar.
